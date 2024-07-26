@@ -7,17 +7,17 @@ the payments for all the reservations (PAYMENT).
 
 To run the application you need to have sqlite installed. Also, it is necessary to download the required libraries to do the following imports
 
-import os
-import random
-import sqlite3
-from random import randint as ran
-import time
-import datetime
-from datetime import date, timedelta
-import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox
-import unicodedata as ud
+import os</br>
+import random</br>
+import sqlite3</br>
+from random import randint as ran</br>
+import time</br>
+import datetime</br>
+from datetime import date, timedelta</br>
+import tkinter as tk</br>
+from tkinter import ttk</br>
+from tkinter import messagebox</br>
+import unicodedata as ud</br>
 
 The project tree must have the following order
 
