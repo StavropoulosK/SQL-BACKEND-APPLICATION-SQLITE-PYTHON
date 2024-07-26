@@ -40,7 +40,7 @@ The project tree must have the following order
 </pre>
 The file project->project.sql contains the sql code for the creation of the sqlite database
 
-The Database has already been created and should be in the file
+The database has already been created and should be in the file
 project->project.db
 
 The folder python->arxia_gia_prosomiosi contains files with names for the creation of person profiles for simulation
@@ -49,7 +49,7 @@ The file python->project.py contains the code to run the application
 
 We just write Gui() at the bottom of the program python->project.py
 to start the application. If we want to run the simulation program that
-fills all arrays from the beginning we write Simulate().In the Simulate class at
+fills all arrays from the beginning we write Simulate(). In the Simulate class at the
 constructor we can set the desired parameters of the simulation.
 
 
