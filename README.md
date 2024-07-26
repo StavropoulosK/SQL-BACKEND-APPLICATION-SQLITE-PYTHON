@@ -24,7 +24,7 @@ The project tree must have the following order
 
 <pre>
 
--readme.txt
+-readme.md
 -project-
 	-project.db
 	-project.sql
