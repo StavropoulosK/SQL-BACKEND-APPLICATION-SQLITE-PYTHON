@@ -45,7 +45,7 @@ project->project.db
 
 The folder python->arxia_gia_prosomiosi contains files with names for the creation of person profiles for simulation
 
-The file python->project.py contains the code to run the application
+**The file python->project.py contains the code to run the application**
 
 We just write Gui() at the bottom of the program python->project.py
 to start the application. If we want to run the simulation program that
