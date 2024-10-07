@@ -3,7 +3,7 @@ It is the backend application for a tennis club and it is meant to be accessed b
 sign them up to classes or book private lessons with a golf tutor and handle as well all payments. We have also built a python simulation that fills
 the database for the year 2023-2024. Beyond the simulation for that year, one can easily use the application to create a new member (NEW MEMBER)
 and book for them a reservation for a tennis court (RESERVATION) so they can play with a friend or even with a tutor. Also, the application handles
-the payments for all the reservations (PAYMENT).
+the payments for all the reservations (PAYMENT). There are also some options that are not currently supported in the front-end.
 
 To run the application you need to have sqlite installed. Also, it is necessary to download the required libraries to do the following imports
 
