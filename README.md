@@ -1,4 +1,4 @@
-This is the group project for the Data Bases course at the University of Patras for the year 2023-2024. It is the work of Stavropoulos Konstantinos and Panagiotis Housos.
+This is the group project for the Data Bases course at the University of Patras for the academic year 2023-2024. It is the work of Stavropoulos Konstantinos and Panagiotis Housos.
 It is the backend application for a tennis club and it is meant to be accessed by the club secretary to sign up new members,
 sign them up to classes or book private lessons with a golf tutor and handle as well all payments. We have also built a python simulation that fills
 the database for the year 2023-2024. Beyond the simulation for that year, one can easily use the application to create a new member (NEW MEMBER)
